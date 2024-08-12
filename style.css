@@ -309,7 +309,7 @@ a {
   box-sizing: border-box;
   background-image: url(/img/Rectangle\ 5.png);
   background-repeat: no-repeat;
-  background-position: center content;
+  background-position: center;
   background-size: cover;
   display: block;
   justify-content: center;
